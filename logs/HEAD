@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 cd60ad8db6fb11c1a8b67a6bb324eb21679f6cac sreena <sreena.k@oakridgebs.com> 1598180422 +0530	clone: from https://sreena_k@bitbucket.org/sreena_k/yellow_bee_qatar_cleaning_app.git
+cd60ad8db6fb11c1a8b67a6bb324eb21679f6cac c7b8576f29dccfb860478ae34d3f86983eb40560 sreena <sreena.k@oakridgebs.com> 1598180532 +0530	commit: first setup commmit
+c7b8576f29dccfb860478ae34d3f86983eb40560 a2233a667d5a9b2fd63857e64850734e0724c58d sreena <sreena.k@oakridgebs.com> 1599303005 +0530	commit: htaccess files
+a2233a667d5a9b2fd63857e64850734e0724c58d 04e862f9cf93a802c0081aba2a75ae6b8681dd76 sreena <sreena.k@oakridgebs.com> 1599303491 +0530	commit (merge): htaccess files
+04e862f9cf93a802c0081aba2a75ae6b8681dd76 a73decb3471d790d3ccba166ca65aa6889428624 sreena <sreena.k@oakridgebs.com> 1599322789 +0530	commit: htaccess files
+a73decb3471d790d3ccba166ca65aa6889428624 0164ced12e728e75f4e98486c88568f9df06da3f sreena <sreena.k@oakridgebs.com> 1599342537 +0530	commit: footer modifications
+0164ced12e728e75f4e98486c88568f9df06da3f a210d1a392b505339e13179c7619e87baa208656 sreena <sreena.k@oakridgebs.com> 1599489694 +0530	commit: category edit and delete in admins
+a210d1a392b505339e13179c7619e87baa208656 51e11e493446507a28e979915306fedd87ea83a2 sreena <sreena.k@oakridgebs.com> 1599508706 +0530	commit: category edit and delete in admins
+51e11e493446507a28e979915306fedd87ea83a2 acefdbb0e54df564ddd7fad0974c568f00447ecf sreena <sreena.k@oakridgebs.com> 1599508790 +0530	commit: gallery edit
+acefdbb0e54df564ddd7fad0974c568f00447ecf fc3ae8c57bd86e5a51fbf92385babdbeafddc648 sreena <sreena.k@oakridgebs.com> 1599514467 +0530	commit: gallery edit
+fc3ae8c57bd86e5a51fbf92385babdbeafddc648 46500b0b5de767a1cfcf6481fa24d5b5bf64d9a9 sreena <sreena.k@oakridgebs.com> 1599514982 +0530	commit: gallery edit
+46500b0b5de767a1cfcf6481fa24d5b5bf64d9a9 e57df1ec49dcbec8702296a156194c9aaee75c70 sreena <sreena.k@oakridgebs.com> 1599693449 +0530	commit: index page logo and sliders added
+e57df1ec49dcbec8702296a156194c9aaee75c70 38d03abb5e07dfd043d9cccc6b04e85431d6c321 sreena <sreena.k@oakridgebs.com> 1599747977 +0530	pull origin master: Fast-forward
+38d03abb5e07dfd043d9cccc6b04e85431d6c321 82e511203732c72c61cf9ac490d9cf10b4bc5476 sreena <sreena.k@oakridgebs.com> 1599769299 +0530	commit: multiple add delete in galleries
+82e511203732c72c61cf9ac490d9cf10b4bc5476 d8d9d7346a95a710b3e1ee3d66673832dba669b8 sreena <sreena.k@oakridgebs.com> 1599772824 +0530	commit: category selection on gallery edit
+d8d9d7346a95a710b3e1ee3d66673832dba669b8 904ff8171f9a0814bd557ab01b3a7e2c51c1e928 sreena <sreena.k@oakridgebs.com> 1599773825 +0530	commit: category selection on gallery edit
+904ff8171f9a0814bd557ab01b3a7e2c51c1e928 b1c83d396755a130df43471471bbc07143dc5fb0 sreena <sreena.k@oakridgebs.com> 1599864639 +0530	commit: index about and services page
+b1c83d396755a130df43471471bbc07143dc5fb0 c4a54a32fe8c438655538448e190a2def9dc09d1 sreena <sreena.k@oakridgebs.com> 1599864679 +0530	pull origin master: Merge made by the 'recursive' strategy.
+c4a54a32fe8c438655538448e190a2def9dc09d1 d6627d2053b55bc60277e335ad7e5853257e59cf sreena <sreena.k@oakridgebs.com> 1599952275 +0530	commit: contact page
+d6627d2053b55bc60277e335ad7e5853257e59cf e19100d11d95c0c5e108ec0e27546ccdf2b21126 sreena <sreena.k@oakridgebs.com> 1599952335 +0530	pull origin master: Merge made by the 'recursive' strategy.
+e19100d11d95c0c5e108ec0e27546ccdf2b21126 9719adacf042c55dc080778805867b71790d7119 sreena <sreena.k@oakridgebs.com> 1599954017 +0530	commit: changes with admin panel gallery and categories
+9719adacf042c55dc080778805867b71790d7119 b7e93dce157e3e61025f8767b164d8ae70363ac5 sreena <sreena.k@oakridgebs.com> 1599959245 +0530	commit: changes with admin panel gallery and categories
+b7e93dce157e3e61025f8767b164d8ae70363ac5 326f93c3626948a15299f3d71047cd27e74d2368 sreena <sreena.k@oakridgebs.com> 1599991861 +0530	pull origin master: Fast-forward
+326f93c3626948a15299f3d71047cd27e74d2368 0e5c1686e446ecb0354476bc55d7a306c217d820 sreena <sreena.k@oakridgebs.com> 1600040201 +0530	commit: gallery page
+0e5c1686e446ecb0354476bc55d7a306c217d820 6c3efac810112f07246d5ab4a63b589ac7e6e107 sreena <sreena.k@oakridgebs.com> 1600045008 +0530	commit: gallery errors fix
+6c3efac810112f07246d5ab4a63b589ac7e6e107 21bfc471f07fffff3d23591cea3a1c53c46e3d80 sreena <sreena.k@oakridgebs.com> 1600146141 +0530	commit: gallery
+21bfc471f07fffff3d23591cea3a1c53c46e3d80 73077fd9a0a4b312c38577b4289ed26361c3ec6c sreena <sreena.k@oakridgebs.com> 1600254381 +0530	commit (merge): changes index
+73077fd9a0a4b312c38577b4289ed26361c3ec6c 3a119e4823a14f8951e2bbbafc0baee623422136 sreena <sreena.k@oakridgebs.com> 1600254449 +0530	commit (merge): changes index
+3a119e4823a14f8951e2bbbafc0baee623422136 09df425cb8df98890cd76e5671b3ae020c8b3fa5 sreena <sreena.k@oakridgebs.com> 1600297917 +0530	commit: changes index

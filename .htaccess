@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L] 
+RewriteCond % ^yellowbeeqatar.com [NC]
+RewriteRule ^(.*) http://www.yellowbeeqatar.com/$1 [R=301,NC]
+RewriteCond %{HTTP_HOST} ^yellowbeeqatar\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.yellowbeeqatar\.com$
+RewriteRule ^public_html\/$ "http\:\/\/www\.yellowbeeqatar\.com\/" [R=301,L]
